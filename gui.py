@@ -1,7 +1,7 @@
 import functions
 import FreeSimpleGUI as sg
 
-#from cli import new_todo
+#from cli import new_todo .
 
 label = sg.Text("Type in a to-do")
 input_box = sg.InputText(tooltip="Enter to do", key='todo',
